@@ -18,4 +18,5 @@ createRoot(document.getElementById("root")).render(
 // HOT DEPLOYMENT; i soon i change the code the UI reflects it.
 // Repositry;its a folder that upload your code to
 // GIT; It a software that allows you to upload/download/delete/share/solve conflict/sync your code to the cloud automatically without doing it manually
-// Dot before git suggesting its a hidden file.Its a configuration file meaning your project is configure to upload to the cloud
+// Dot before git suggesting its a hidden file.Its a configuration file meaning your project is configure to upload to the cloud.
+// what is cloud?Anywhere on the internet other than your laptop
