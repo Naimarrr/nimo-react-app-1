@@ -7,8 +7,7 @@ function App() {
     <div>
       <Greeting name="Nimo"  surname="Mohamed"  />
       <Header />
-      <Header />
-      <Header />
+      
     </div>
   );
 }
