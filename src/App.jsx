@@ -1,13 +1,15 @@
 import "./App.css";
 import Greeting from "./components/Greeting";
 import Header from "./components/Header";
+import Counter from "./components/counter";
 
 function App() {
   return (
     <div>
-      <Greeting name="Nimo"  surname="Mohamed"  />
-      <Header />
       
+      <Header />
+      <Greeting name="Nimo" surname="Mohamed" />
+      <Counter />
     </div>
   );
 }

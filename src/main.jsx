@@ -20,3 +20,6 @@ createRoot(document.getElementById("root")).render(
 // GIT; It a software that allows you to upload/download/delete/share/solve conflict/sync your code to the cloud automatically without doing it manually
 // Dot before git suggesting its a hidden file.Its a configuration file meaning your project is configure to upload to the cloud.
 // what is cloud?Anywhere on the internet other than your laptop
+// What are the twonways of impleting react components?
+// a)functional components
+// b)class components
